@@ -54,7 +54,7 @@ Sabendo ou não, essas empresas põe em prática diversos princípios da gestão
 Home » Práticas » Delegation Poker & Board
 Use o Delegation Poker para esclarecer quem é responsável pelo quê e em que nível. Este é um método em que você pode incentivar o envolvimento dos funcionários por meio de uma auto-organização controlada e valores e tomadas de decisão esclarecidos.
 
-O objetivo do Delegation Poker é levar para casa a ideia de delegar decisões e tarefas à sua equipe dentro de um ambiente controlado. Também é um bom jogo de colaboração. Muitas equipes jogam sem sequer somar pontos e mais do que qualquer outra coisa é um tópico de conversa e um ponto de partida para a discussão de  quem deve fazer  o quê .
+### O objetivo do Delegation Poker é levar para casa a ideia de delegar decisões e tarefas à sua equipe dentro de um ambiente controlado. Também é um bom jogo de colaboração. Muitas equipes jogam sem sequer somar pontos e mais do que qualquer outra coisa é um tópico de conversa e um ponto de partida para a discussão de  quem deve fazer  o quê .
 
 Delegação não é uma coisa binária.  Existem muitos “tons de cinza” entre ser um ditador e ser um anarquista.
 A delegação é um processo passo a passo. Você entrega a responsabilidade a outras pessoas de forma controlada e gradual.
