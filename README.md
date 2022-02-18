@@ -50,7 +50,7 @@ Na Pixar, para todo o lançamento de filme, por maior que seja o recorde de vend
 
 Sabendo ou não, essas empresas põe em prática diversos princípios da gestão 3.0. Poderíamos citar diversas outras empresas aqui, inclusive muitas brasileiras. Bom, mas isso ficará para um próximo post.
 
-Delegation Poker & Delegação Board
+### Delegation Poker & Delegação Board
 Home » Práticas » Delegation Poker & Board
 Use o Delegation Poker para esclarecer quem é responsável pelo quê e em que nível. Este é um método em que você pode incentivar o envolvimento dos funcionários por meio de uma auto-organização controlada e valores e tomadas de decisão esclarecidos.
 
